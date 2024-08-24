@@ -1,6 +1,6 @@
 # SentimentBot
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fregtechone.co%2Fen%2Fthe-history-and-evolution-of-the-fintech-industry%2F&psig=AOvVaw0kF1pKh3gq0mTaIZJ---ho&ust=1724549381926000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPijjZ29jIgDFQAAAAAdAAAAABAE"/>
+![alt text](https://regtechone.co/wp-content/uploads/2023/02/perfecto.png)
 
 ## Run on your own device
 
